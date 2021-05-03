@@ -9,3 +9,13 @@
      # a. f(n) > n^(log(b)a) to wynik będzie równy T(n)=O(f(n))
      # b. f(n) < n^(log(b)a) to wynik będzie równy T(n)=O(n^(log(b)a))
      # c. f(n) = n^(log(b)a) to wynik będzie równy T(n)=O(n^(log(b)a) * log n) => T(n)=O(f(n) * log n)
+
+
+def f1():
+    pass
+
+def f2():
+    pass
+
+def f3():
+    pass
